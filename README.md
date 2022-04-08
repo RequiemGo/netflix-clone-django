@@ -1,4 +1,4 @@
-# Netflix Clone with Django
+# Netflix Clone with Django :sweat_smile: 
 
 In this repository, you can find a Netflix clone web page with the Django framework. It has a **login functional** and you will be able to select 
 a profile and decided who's watching, as the real page. This clone page focuses on simulating the front end of Netflix. Although, as I said before, 
@@ -14,7 +14,7 @@ all the related to back end register works.
 - Django = "*"
 - Pillow = "*"
 
-Images below :fa-arrow-down:
+Images below :arrow_down: :arrow_down:
 
 [![img3](https://i.postimg.cc/qBhxK6RQ/git4.png "img3")](https://postimg.cc/grphFJ36 "img3")
 
